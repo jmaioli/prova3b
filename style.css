@@ -1,0 +1,13 @@
+.button {
+    background-color: #0003ba;
+    color: white; 
+    border: 10px solid #0022ba;
+}
+
+.tela    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+
